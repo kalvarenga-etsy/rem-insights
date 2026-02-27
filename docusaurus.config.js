@@ -10,8 +10,8 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'REM Analytics Library',
-  tagline: 'Dinosaurs are cool',
+  title: 'REM Insights Library',
+  tagline: 'The Source of Truth for REM Insights & Reporting',
   favicon: 'img/favicon.ico',
 
   // Future flags, see https://docusaurus.io/docs/api/docusaurus-config#future
@@ -27,8 +27,8 @@ const config = {
 
   // GitHub pages deployment config.
   // If you aren't using GitHub pages, you don't need these.
-  organizationName: 'facebook', // Usually your GitHub org/user name.
-  projectName: 'docusaurus', // Usually your repo name.
+  organizationName: 'Etsy', // Usually your GitHub org/user name.
+  projectName: 'REM Insights Library', // Usually your repo name.
 
   onBrokenLinks: 'throw',
 
